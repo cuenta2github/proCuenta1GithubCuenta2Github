@@ -7,6 +7,7 @@ public class HolaMundo {
 		System.err.println("Hola Mundo");
 		System.out.println("Adios Mundo");
 		System.out.println("Cambio 12");
+		System.out.println("Conflicto1");
 	}
 
 }
